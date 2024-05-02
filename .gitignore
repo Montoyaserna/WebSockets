@@ -1,0 +1,5 @@
+node_modules/
+dist/
+data/
+etc/
+etc_cassandra-3.11.8_vanilla/
